@@ -6,7 +6,7 @@ Abstract: *Early-stage planning in architectural development strongly influences
 
 
 *Figure 1) Graphical Abstract*
-![img](figure/figure1.png)
+![img](images/figure1.png)
 
 *Figure 2) Example Planning Outcomes under Different Agent Priorities and Site Constraints. The four cases illustrate different planning priorities under varying agent weights. Agent weights represent relative disciplinary priorities rather than direct geometric rules, while the final layouts are jointly shaped by site-specific constraints.*
 ![img](images/figure1.png)
