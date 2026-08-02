@@ -59,11 +59,11 @@ Abstract: *Early-stage planning in architectural development strongly influences
 ## Inference
 
 ```
-python EnergAI_Infer.py --dataset LowEnergy-FormNet --model_path ckpts/EnergAI/model_final.pt --prompt_strategy performance-oriented
+python EnergAI_Infer.py --dataset ArchPlan-Multimodal --model_path ckpts/EnergAI/model_final.pt --prompt_strategy performance-oriented
 ```
 ## Train
 
 ```
-python EnergAI_Train.py --dataset LowEnergy-FormNet --batch_size 32 --prompt_strategy geometry-oriented
+python EnergAI_Train.py --dataset ArchPlan-Multimodal --output_dir ckpts/EnergAI --prompt_strategy performance-oriented
 ```
 
