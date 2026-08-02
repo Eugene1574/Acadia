@@ -9,7 +9,7 @@ Abstract: *Early-stage planning in architectural development strongly influences
 ![img](images/figure1.png)
 
 *Figure 2) Example Planning Outcomes under Different Agent Priorities and Site Constraints. The four cases illustrate different planning priorities under varying agent weights. Agent weights represent relative disciplinary priorities rather than direct geometric rules, while the final layouts are jointly shaped by site-specific constraints.*
-![img](images/figure1.png)
+![img](images/Frame 23.png)
 
 *Figure 3) Overview of the ArchPlan-Multimodal Framework*
 ![img](figure/figure3.png)
