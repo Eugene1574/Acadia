@@ -15,7 +15,7 @@ Abstract: *Early-stage planning in architectural development strongly influences
 ![img](figure/figure3.png)
 
 *Figure 4) Overview of the PlanGPT-MAS Framework*
-![img](figure/figure4.png)
+![img](images/Frame 3.png)
 
 *Figure 5) (a) Impact of removing individual agents on test reward,  (b) Effect of negotiation rounds on train/test reward*
 ![img](figure/figure5.png)
